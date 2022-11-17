@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(./assets/font/Montserrat/static/Montserrat-Light.ttf);
+}
+
+.main_wrapper {
+  width: 100%;
+}
